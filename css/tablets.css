@@ -1,0 +1,20 @@
+@media(max-width:710px){
+   
+    .header_ul{
+        display: none;
+    }
+     .burger{
+        display: flex;
+    }
+    header{
+        padding-inline:38px ;
+    }
+    span{
+        font-family: Pridi;
+font-weight: 400;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+
+    }
+}
